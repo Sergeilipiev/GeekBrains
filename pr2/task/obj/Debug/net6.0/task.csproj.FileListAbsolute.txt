@@ -1,0 +1,15 @@
+/Users/serzh/Documents/pr2/task/bin/Debug/net6.0/task
+/Users/serzh/Documents/pr2/task/bin/Debug/net6.0/task.deps.json
+/Users/serzh/Documents/pr2/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/serzh/Documents/pr2/task/bin/Debug/net6.0/task.dll
+/Users/serzh/Documents/pr2/task/bin/Debug/net6.0/task.pdb
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.dll
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/refint/task.dll
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.pdb
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/serzh/Documents/pr2/task/obj/Debug/net6.0/ref/task.dll
