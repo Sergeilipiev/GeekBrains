@@ -1,0 +1,15 @@
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.csproj.AssemblyReference.cache
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.AssemblyInfoInputs.cache
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.AssemblyInfo.cs
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.csproj.CoreCompileInputs.cache
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/bin/Debug/net6.0/pr3
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/bin/Debug/net6.0/pr3.deps.json
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/bin/Debug/net6.0/pr3.runtimeconfig.json
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/bin/Debug/net6.0/pr3.dll
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/bin/Debug/net6.0/pr3.pdb
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.dll
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/refint/pr3.dll
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.pdb
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/pr3.genruntimeconfig.cache
+/Users/serzh/Documents/EducationGB/git/GeekBrains/pr3/obj/Debug/net6.0/ref/pr3.dll
