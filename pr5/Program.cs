@@ -30,8 +30,8 @@ void PrintArray (int[] arr) {
 
 int[] arr = CreateArray(20, 100, 999);
 
-// PrintArray(arr);
-// Console.WriteLine($"Количество четных элементов = {EvenInArray(arr)}");
+PrintArray(arr);
+Console.WriteLine($"Количество четных элементов = {EvenInArray(arr)}");
 
 // Задача 36
 
@@ -47,8 +47,8 @@ int SumEvenElements (int[] arr) {
     return sum;
 }
 
-// PrintArray(arr2);
-// Console.WriteLine($"Сумма четных элементов массива = {SumEvenElements(arr2)}");
+PrintArray(arr2);
+Console.WriteLine($"Сумма четных элементов массива = {SumEvenElements(arr2)}");
 
 // Задача 38
 double[] CreateArray2 (int len, int min, int max) {
@@ -58,25 +58,27 @@ double[] CreateArray2 (int len, int min, int max) {
         arr[i] = Math.Round(rnd.Next(min,max) + rnd.NextDouble(), 2);
     return arr;
 }
+
 double[] arr3 = CreateArray2(20, 1, 99);
 
 double DiffMinMax (double[] arr, double min = 0, double max = 99) {
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] > max) max =  arr[i];
-        if (arr[i] < min) min =  arr[i];
+        if (arr[i] > min) max =  arr[i];
+        if (arr[i] < max) min =  arr[i];
     }
     return max - min;
 }
 
-void PrintArray2 (double[] arr) {
-    for (int i = 0; i < arr.Length; i++)
-        Console.Write($"{arr[i]} ");
-    Console.WriteLine();
-}
+// void PrintArray2 (double[] arr3) {
+    for (int i = 0; i < arr3.Length; i++){
+        Console.Write($"{arr3[i]} ");
+    }
+    // Console.WriteLine();
+// }
 
-Console.WriteLine(PrintArray2(arr3));
-// Console.WriteLine($"Разница между максимальным и минимальным элементом массива = {DiffMinMax(arr3, 1, 99)}");
+// Console.WriteLine(PrintArray2(arr3));
+Console.WriteLine($"Разница между максимальным и минимальным элементом массива = {DiffMinMax(arr3, 1, 99)}");
 
 
 
